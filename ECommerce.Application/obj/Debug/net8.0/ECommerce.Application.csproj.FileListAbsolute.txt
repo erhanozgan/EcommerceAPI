@@ -1,0 +1,15 @@
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/bin/Debug/net8.0/ECommerce.Application.deps.json
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/bin/Debug/net8.0/ECommerce.Application.dll
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/bin/Debug/net8.0/ECommerce.Application.pdb
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/bin/Debug/net8.0/ECommerce.Core.dll
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/bin/Debug/net8.0/ECommerce.Core.pdb
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.csproj.AssemblyReference.cache
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.AssemblyInfoInputs.cache
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.AssemblyInfo.cs
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.csproj.CoreCompileInputs.cache
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerc.670E0CBE.Up2Date
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.dll
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/refint/ECommerce.Application.dll
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ECommerce.Application.pdb
+/Users/erhanozgan/Desktop/EcommerceAPI/ECommerceAPI/ECommerce.Application/obj/Debug/net8.0/ref/ECommerce.Application.dll
